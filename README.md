@@ -6,7 +6,7 @@
 
 Designed to advance and assess sophisticated reasoning in LLMs, this dataset serves as a benchmark or training resource for high-level problem-solving in AI.
 
-If you have any problem, feel free to contact [Yang Yuan](yuanyang@tsinghua.edu.cn) and [Yifan Luo](luoyf24@mails.tsinghua.edu.cn).
+If you have any problem, feel free to contact Yang Yuan (yuanyang@tsinghua.edu.cn) and Yifan Luo (luoyf24@mails.tsinghua.edu.cn).
 
 ## Introduction for "Little Blue Book" (小蓝书)
 
