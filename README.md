@@ -98,7 +98,7 @@ If you use the BlueMO dataset in your research, please consider citing it as fol
 ```bibtex
 @misc{chen2025bluemo,
       title={BlueMO: A High-Quality Mathematical Olympiad Data Resources from Little Blue Book Series},
-      author={Chen Yizhou, Luo Yifan, Zhang, Yifan, Yuan Yang},
+      author={Chen, Yizhou, Luo, Yifan, Zhang, Yifan, Yuan, Yang},
       year={2025},
       publisher={GitHub},
       howpublished={\url{https://github.com/Luobots/BlueMO}}
